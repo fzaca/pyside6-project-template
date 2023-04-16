@@ -1,10 +1,10 @@
-# Plantilla de proyecto PySide6 en Python utilizando el patrón Modelo-Vista-Controlador (MVC)📘
+# Plantilla de proyecto PySide6 en Python 📘
 
-Este repositorio contiene una plantilla para proyectos en PySide6 en Python utilizando la arquitectura Modelo-Vista-Controlador (MVC). La estructura del proyecto se ha diseñado para facilitar el desarrollo y la mantenibilidad del código. La plantilla incluye todas las carpetas y archivos necesarios para comenzar a desarrollar una aplicación PySide6.
+Este repositorio contiene una plantilla para proyectos en PySide6 en Python. La estructura del proyecto se ha diseñado para facilitar el desarrollo y la mantenibilidad del código. La plantilla incluye todas las carpetas y archivos necesarios para comenzar a desarrollar una aplicación PySide6.
 
 ## Estructura del proyecto 📋
 
-La estructura del proyecto se basa en el patrón MVC. La plantilla incluye las siguientes carpetas y archivos:
+La plantilla incluye las siguientes carpetas y archivos:
 
 - `controllers/`: Esta carpeta contiene los controladores de la aplicación. En la plantilla se incluye un controlador principal, `main_window.py`.
 
